@@ -1,0 +1,3 @@
+rootProject.name = 'homekart_2912'
+
+include ':app'
